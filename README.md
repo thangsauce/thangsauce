@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Information+Technology+Student;Full+Stack+Developer;Cybersecurity+Enthusiast;Building+Real+World+Projects&center=true&width=600&height=45)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Information+Technology+Student;Full-Stack+Developer;Cybersecurity+Enthusiast;Building+Real-World+Projects&center=true&width=600&height=45&color=3FB950)](https://git.io/typing-svg)
 
 # Hi 👋, I'm Thang Le
 
@@ -78,22 +78,6 @@ Passionate about building scalable web applications, exploring cybersecurity, an
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thangsauce&layout=compact&theme=tokyonight)
 
 </div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=thangsauce&theme=tokyonight)
-
-</div>
-
----
-
-# 📈 Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thangsauce&theme=tokyo-night)
 
 ---
 

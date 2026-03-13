@@ -59,9 +59,6 @@ life_philosophy: "Wherever you go, there you are."
 
 <h2 align="center">🧰 Skills & Tools</h2>
 
-<details>
-<summary>Click to expand</summary>
-
 <div align="center">
 
 ### Languages
@@ -91,8 +88,6 @@ life_philosophy: "Wherever you go, there you are."
 
 </div>
 
-</details>
-
 ---
 
 <h2 align="center">🎓 Certifications</h2>
@@ -108,9 +103,6 @@ life_philosophy: "Wherever you go, there you are."
 
 <h2 align="center">📂 Featured Projects</h2>
 
-<details>
-<summary>Click to expand</summary>
-
 <div align="center">
 
 ### 🔐 [CampusLab SIEM](https://github.com/project-vigil-knighthacks/vigil)
@@ -121,7 +113,7 @@ A centralized security monitoring system built under hackathon conditions that a
 ---
 
 ### 🕯 [Aromamor Candle Website](https://github.com/thangsauce/aromamor-candles)
-**React · TypeScript · Vite**
+**Modern E-Commerce Storefront · Responsive UI · Interactive Shopping Experience**
 
 Modern e-commerce style website demonstrating responsive UI and component-based architecture. Built with a focus on clean design, reusable components, and a smooth user experience.
 
@@ -134,17 +126,14 @@ Full-featured platform for organizing esports tournaments — handles bracket ge
 
 </div>
 
-</details>
-
 ---
 
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thangsauce&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thangsauce&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=thangsauce&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thangsauce&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
 
 </div>
 

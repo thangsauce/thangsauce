@@ -1,102 +1,130 @@
-<h1 align="center">Hi 👋, I'm Thang Le</h1>
-<h3 align="center">Information Technology Student @ University of Central Florida</h3>
+<div align="center">
 
-<p align="center">
-Passionate about building modern web applications, learning cybersecurity, and solving real-world problems through technology.
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Information+Technology+Student;Full-Stack+Developer;Cybersecurity+Enthusiast;Building+Real-World+Projects&center=true&width=600&height=45)](https://git.io/typing-svg)
+
+# Hi 👋, I'm Thang Le
+
+### Information Technology Student @ University of Central Florida
+
+![](https://komarev.com/ghpvc/?username=thangsauce&color=0e75b6&style=flat)
+
+Passionate about building scalable web applications, exploring cybersecurity, and solving real-world problems through technology and automation.
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-🎓 Information Technology student at **University of Central Florida**
-
-💻 Interested in:
-- Web Development
-- IT Infrastructure
-- Cybersecurity
-- Full-Stack Applications
-
-🛠 Currently working with:
-- React
-- TypeScript
-- Python
-- Networking & Security projects
-
-🌱 Currently learning:
-- Cloud computing
-- Advanced backend systems
-- Security monitoring tools
+- 🎓 Information Technology student at **University of Central Florida**
+- 💻 Interested in **Web Development, IT Infrastructure, Cybersecurity, and Full-Stack Applications**
+- 🛠 Currently building with **React, TypeScript, Python, and security-focused projects**
+- 🌱 Currently learning **cloud computing, backend systems, and monitoring tools**
+- 🎯 Goal: land an internship in **IT, software development, or cybersecurity**
 
 ---
 
-## 🛠 Tech Stack
+## 🧰 Tech Stack
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
 ### Web Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+---
+
+## 🔭 Current Focus
+
+- Building polished **full-stack web applications**
+- Strengthening **IT infrastructure and cybersecurity skills**
+- Creating **portfolio projects for internships**
+- Learning **cloud infrastructure and backend systems**
 
 ---
 
 ## 📂 Featured Projects
 
-### 🕯 Aromamor Candle Website
-Modern e-commerce style website built.
+<table>
+<tr>
+<td width="33%">
+<h3>🕯 <a href="https://github.com/thangsauce/aromamor-candles">Aromamor Candle Website</a></h3>
+<p><strong>React • TypeScript • Vite</strong></p>
+<p>Built to help small businesses create a modern and responsive online storefront to showcase and sell their products.</p>
+</td>
 
-Features:
-- Dynamic UI
-- Responsive design
-- Component-based architecture
+<td width="33%">
+<h3>🔐 <a href="https://github.com/project-vigil-knighthacks/vigil">CampusLab SIEM</a></h3>
+<p><strong>Security Monitoring • Log Analysis • Dashboards</strong></p>
+<p>Built to centralize system logs and detect suspicious activity, improving security visibility for small organizations.</p>
+</td>
 
----
-
-### 🔐 CampusLab SIEM
-Security monitoring system that collects logs and detects suspicious activity.
-
-Features:
-- Centralized log monitoring
-- Security event detection
-- Dashboard visualization
-
----
-
-### 👾 ArenaOps
-All-in-one tournament management platform built for university esports clubs — from first registration to final bracket, live on game day.
-
-Features:
-- Tournament Management
-- Live Match Control
-- Smart Scheduling
-- Room Booking
-- Participant Tracking
-- Role-Based Access
+<td width="33%">
+<h3>👾 <a href="https://github.com/thangsauce/ArenaOps">ArenaOps</a></h3>
+<p><strong>Tournament Management • Scheduling • Role Access</strong></p>
+<p>Built to simplify esports tournament organization for university clubs by automating scheduling and match tracking.</p>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
+<div align="center">
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thangsauce&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thangsauce&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=thangsauce&theme=tokyonight)
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thangsauce&theme=tokyo-night)
 
 ---
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thang-le-it)
+<p>
+<a href="https://www.linkedin.com/in/thang-le-it">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</p>
 
 ---
 
+<div align="center">
+
 ⭐ Always learning and building new projects to grow my skills in IT and software development.
+
+</div>

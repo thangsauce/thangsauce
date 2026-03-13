@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Information+Technology+Student;Cybersecurity+Enthusiast;Building+Real-World+Projects&center=true&width=600&height=45&color=3FB950)](https://git.io/typing-svg)
 
-# Hi o(*￣▽￣*)ブ I'm Thang Le aka Thangsauce
+# Hi 👋, I'm Thang Le aka Thangsauce
 <img src="https://raw.githubusercontent.com/zendurix/Hacker-screen/master/hacker.gif" width="600">
 
 ### Information Technology Student @ University of Central Florida
@@ -62,6 +62,8 @@ life_philosophy: "Wherever you go, there you are."
 <details>
 <summary>Click to expand</summary>
 
+<div align="center">
+
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -87,6 +89,7 @@ life_philosophy: "Wherever you go, there you are."
 ![Google Antigravity](https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-%23FF9900.svg?style=for-the-badge&logo=awslambda&logoColor=white)
 
+</div>
 
 </details>
 

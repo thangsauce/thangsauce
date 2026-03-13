@@ -7,6 +7,7 @@
 ### Information Technology Student @ University of Central Florida
 
 ![Profile Views](https://komarev.com/ghpvc/?username=thangsauce&color=3FB950&style=flat)
+[Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fthangsauce&query=public_repos&label=Repositories&color=3FB950&logo=github&style=flat)
 
 </div>
 

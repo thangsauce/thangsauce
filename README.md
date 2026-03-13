@@ -35,7 +35,7 @@ currently_building:
   - Portfolio Projects
   - IT Infrastructure Labs
 
-life_philosophy: "Building at the intersection of web development and cybersecurity."
+life_philosophy: "Wherever you go, there you are."
 ```
   </td>
     <td width="50%" valign="top">
@@ -49,7 +49,6 @@ life_philosophy: "Building at the intersection of web development and cybersecur
 ### 💡 Quick Facts
 - 🎓 B.S. Information Technology — UCF
 - 🏆 Hackathon builder (CampusLab SIEM)
-- 🎯 Seeking Summer 2026 internships
 - ⭐ Always learning and building
 
     </td>

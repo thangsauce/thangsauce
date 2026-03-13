@@ -14,7 +14,7 @@ Passionate about building scalable web applications, exploring cybersecurity, an
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
 - 🎓 Information Technology student at **University of Central Florida**
 - 💻 Interested in **Web Development, IT Infrastructure, Cybersecurity, and Full-Stack Applications**
@@ -24,15 +24,36 @@ Passionate about building scalable web applications, exploring cybersecurity, an
 
 ---
 
-# 🧰 Tech Stack
+## 🧰 Tech Stack
 
+### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,tailwind,bootstrap,mysql,postgres,git,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python&perline=6" />
+</p>
+
+### Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,html,css&perline=6" />
+</p>
+
+### Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs&perline=6" />
+</p>
+
+### Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres&perline=6" />
+</p>
+
+### Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,vscode&perline=6" />
 </p>
 
 ---
 
-# 🔭 Current Focus
+## 🔭 Current Focus
 
 - Building polished **full-stack web applications**
 - Strengthening **IT infrastructure and cybersecurity fundamentals**
@@ -41,7 +62,7 @@ Passionate about building scalable web applications, exploring cybersecurity, an
 
 ---
 
-# 📂 Featured Projects
+## 📂 Featured Projects
 
 <table>
 <tr>
@@ -69,7 +90,7 @@ Passionate about building scalable web applications, exploring cybersecurity, an
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -81,7 +102,7 @@ Passionate about building scalable web applications, exploring cybersecurity, an
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
 <p>
 <a href="https://www.linkedin.com/in/thang-le-it">

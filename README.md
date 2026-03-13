@@ -7,7 +7,6 @@
 ### Information Technology Student @ University of Central Florida
 
 ![Profile Views](https://komarev.com/ghpvc/?username=thangsauce&color=0e75b6&style=flat)
-![Open to Internships](https://img.shields.io/badge/Open%20to-Summer%202026%20Internships-3FB950?style=flat&logo=handshake&logoColor=white)
 
 </div>
 
@@ -104,15 +103,12 @@ Full-featured platform for organizing esports tournaments — handles bracket ge
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/thang-le-it">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:th342726@ucf.edu">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>

@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Information+Technology+Student;Cybersecurity+Enthusiast;Building+Real-World+Projects&center=true&width=600&height=45&color=3FB950)](https://git.io/typing-svg)
 
 # Hi 👋, I'm Thang Le a.k.a thangsauce
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
 
 ### Information Technology Student @ University of Central Florida
 

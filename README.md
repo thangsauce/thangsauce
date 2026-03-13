@@ -6,9 +6,8 @@
 
 ### Information Technology Student @ University of Central Florida
 
-![](https://komarev.com/ghpvc/?username=thangsauce&color=0e75b6&style=flat)
-
-Passionate about building scalable web applications, exploring cybersecurity, and solving real-world problems through technology and automation.
+![Profile Views](https://komarev.com/ghpvc/?username=thangsauce&color=0e75b6&style=flat)
+![Open to Internships](https://img.shields.io/badge/Open%20to-Summer%202026%20Internships-3FB950?style=flat&logo=handshake&logoColor=white)
 
 </div>
 
@@ -16,17 +15,16 @@ Passionate about building scalable web applications, exploring cybersecurity, an
 
 ## 🚀 About Me
 
-- 🎓 Information Technology student at **University of Central Florida**
-- 💻 Interested in **Web Development, IT Infrastructure, Cybersecurity, and Full-Stack Applications**
-- 🛠 Currently building with **React, TypeScript, Python, and security-focused projects**
-- 🌱 Currently learning **cloud computing, backend systems, and monitoring tools**
-- 🎯 Goal: land an internship in **IT, software development, or cybersecurity**
+UCF Information Technology student building at the intersection of **web development** and **cybersecurity**. I'm drawn to projects where security isn't an afterthought — from building a full SIEM system at a hackathon to crafting production-ready web apps with clean architecture.
+
+- 🎓 **B.S. Information Technology** — University of Central Florida
+- 🔐 Currently sharpening: **cloud infrastructure, backend systems, and offensive security fundamentals**
+- 🏆 Hackathon builder — shipped a real SIEM system under 24-hour deadline pressure
+- 🎯 Seeking: **Summer 2026 internship in IT, software development, or cybersecurity**
 
 ---
 
 ## 🧰 Tech Stack
-
-Technologies I use to build modern web applications and IT projects.
 
 ### Languages
 <p align="center">
@@ -58,7 +56,6 @@ Technologies I use to build modern web applications and IT projects.
 ## 🎓 Certifications
 
 ![CompTIA ITF+](https://img.shields.io/badge/CompTIA-ITF%2B-red?style=for-the-badge)
-
 ![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B%20(In%20Progress)-orange?style=for-the-badge)
 
 ---
@@ -74,29 +71,24 @@ Technologies I use to build modern web applications and IT projects.
 
 ## 📂 Featured Projects
 
-<table>
-<tr>
+### 🔐 [CampusLab SIEM](https://github.com/project-vigil-knighthacks/vigil)
+**Security Monitoring · Log Analysis · KnightHacks Hackathon**
 
-<td width="33%" valign="top">
-<h3>🕯 <a href="https://github.com/thangsauce/aromamor-candles">Aromamor Candle Website</a></h3>
-<p><strong>React • TypeScript • Vite</strong></p>
-<p>Modern e-commerce style website demonstrating responsive UI and component-based architecture.</p>
-</td>
+A centralized security monitoring system built under hackathon conditions that aggregates logs from multiple sources and flags suspicious activity in real time. Demonstrates practical application of SIEM concepts in a campus environment.
 
-<td width="33%" valign="top">
-<h3>🔐 <a href="https://github.com/project-vigil-knighthacks/vigil">CampusLab SIEM</a></h3>
-<p><strong>Security Monitoring • Log Analysis</strong></p>
-<p>Security monitoring system that centralizes logs and detects suspicious activity.</p>
-</td>
+---
 
-<td width="33%" valign="top">
-<h3>👾 <a href="https://github.com/thangsauce/ArenaOps">ArenaOps</a></h3>
-<p><strong>Tournament Management Platform</strong></p>
-<p>Platform for managing esports tournaments, scheduling matches, and tracking participants.</p>
-</td>
+### 🕯 [Aromamor Candle Website](https://github.com/thangsauce/aromamor-candles)
+**React · TypeScript · Vite**
 
-</tr>
-</table>
+Modern e-commerce style website demonstrating responsive UI and component-based architecture. Built with a focus on clean design, reusable components, and a smooth user experience.
+
+---
+
+### 👾 [ArenaOps](https://github.com/thangsauce/ArenaOps)
+**Tournament Management Platform**
+
+Full-featured platform for organizing esports tournaments — handles bracket generation, match scheduling, and participant tracking with a clean admin dashboard.
 
 ---
 
@@ -104,9 +96,9 @@ Technologies I use to build modern web applications and IT projects.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thangsauce&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thangsauce&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thangsauce&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thangsauce&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -117,11 +109,10 @@ Technologies I use to build modern web applications and IT projects.
 <div align="center">
 
 <a href="https://www.linkedin.com/in/thang-le-it">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 <a href="mailto:th342726@ucf.edu">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
@@ -129,7 +120,5 @@ Technologies I use to build modern web applications and IT projects.
 ---
 
 <div align="center">
-
-⭐ Always learning and building new projects to grow my skills in IT and software development.
-
+  ⭐ Always learning and building — one project at a time.
 </div>

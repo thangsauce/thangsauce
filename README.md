@@ -3,6 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Information+Technology+Student;Cybersecurity+Enthusiast;Building+Real-World+Projects&center=true&width=600&height=45&color=3FB950)](https://git.io/typing-svg)
 
 # Hi 👋, I'm Thang Le a.k.a thangsauce
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300">
 
 ### Information Technology Student @ University of Central Florida
 
@@ -73,6 +74,9 @@ UCF Information Technology student building at the intersection of **web develop
 
 ## 📂 Featured Projects
 
+<details>
+<summary>Click to expand</summary>
+  
 ### 🔐 [CampusLab SIEM](https://github.com/project-vigil-knighthacks/vigil)
 **Security Monitoring · Log Analysis · KnightHacks Hackathon**
 
@@ -91,6 +95,8 @@ Modern e-commerce style website demonstrating responsive UI and component-based 
 **Esports Tournament Platform · Bracket Generation · Match Scheduling**
 
 Full-featured platform for organizing esports tournaments — handles bracket generation, match scheduling, and participant tracking with a clean admin dashboard.
+
+</details>
 
 ---
 

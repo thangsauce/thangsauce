@@ -80,19 +80,19 @@ Technologies I use to build modern web applications and IT projects.
 <td width="33%" valign="top">
 <h3>🕯 <a href="https://github.com/thangsauce/aromamor-candles">Aromamor Candle Website</a></h3>
 <p><strong>React • TypeScript • Vite</strong></p>
-<p>Built to help small businesses create a modern and responsive online storefront to showcase and sell their products.</p>
+<p>Modern e-commerce style website demonstrating responsive UI and component-based architecture.</p>
 </td>
 
 <td width="33%" valign="top">
 <h3>🔐 <a href="https://github.com/project-vigil-knighthacks/vigil">CampusLab SIEM</a></h3>
-<p><strong>Security Monitoring • Log Analysis • Dashboards</strong></p>
-<p>Built to centralize system logs and detect suspicious activity, improving security visibility for small organizations.</p>
+<p><strong>Security Monitoring • Log Analysis</strong></p>
+<p>Security monitoring system that centralizes logs and detects suspicious activity.</p>
 </td>
 
 <td width="33%" valign="top">
 <h3>👾 <a href="https://github.com/thangsauce/ArenaOps">ArenaOps</a></h3>
-<p><strong>Tournament Management • Scheduling • Role Access</strong></p>
-<p>Built to simplify esports tournament organization for university clubs by automating scheduling and match tracking.</p>
+<p><strong>Tournament Management Platform</strong></p>
+<p>Platform for managing esports tournaments, scheduling matches, and tracking participants.</p>
 </td>
 
 </tr>

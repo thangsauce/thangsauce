@@ -48,7 +48,8 @@ life_philosophy: "Wherever you go, there you are."
 ### 💡 Quick Facts
 - 🎓 B.S. Information Technology — UCF
 - 🏆 Hackathon builder (CampusLab SIEM)
-- ⭐ Always learning and building
+- 🏍️ Motorcycle enthusiast & Cinephile
+- 🎮 Gamer & Music lover
 
     </td>
   </tr>

@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Information+Technology+Student;Cybersecurity+Enthusiast;Building+Real-World+Projects&center=true&width=600&height=45&color=3FB950)](https://git.io/typing-svg)
 
-# Hi 👋, I'm Thang Le aka Thangsauce
+# Hi o(*￣▽￣*)ブ,I'm Thang Le aka Thangsauce
 <img src="https://raw.githubusercontent.com/zendurix/Hacker-screen/master/hacker.gif" width="600">
 
 ### Information Technology Student @ University of Central Florida
@@ -57,7 +57,7 @@ life_philosophy: "Wherever you go, there you are."
 
 ---
 
-## 🧰 Skills & Tools
+<h2 align="center">🧰 Skills & Tools</h2>
 
 <details>
 <summary>Click to expand</summary>
@@ -95,14 +95,18 @@ life_philosophy: "Wherever you go, there you are."
 
 ---
 
-## 🎓 Certifications
+<h2 align="center">🎓 Certifications</h2>
+
+<div align="center">
 
 ![CompTIA ITF+](https://img.shields.io/badge/CompTIA-ITF%2B-red?style=for-the-badge)
 ![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B%20(In%20Progress)-orange?style=for-the-badge)
 
+</div>
+
 ---
 
-## 📂 Featured Projects
+<h2 align="center">📂 Featured Projects</h2>
 
 <details>
 <summary>Click to expand</summary>
@@ -129,7 +133,7 @@ Full-featured platform for organizing esports tournaments — handles bracket ge
 </details>
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
 
@@ -141,7 +145,7 @@ Full-featured platform for organizing esports tournaments — handles bracket ge
 
 ---
 
-## 📫 Connect With Me
+<h2 align="center">📫 Connect With Me</h2>
 
 <div align="center">
 

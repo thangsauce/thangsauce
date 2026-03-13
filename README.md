@@ -57,9 +57,9 @@ Technologies I use to build modern web applications and IT projects.
 
 ## 🎓 Certifications
 
-- **CompTIA IT Fundamentals (ITF+)**
-  - Issued by **CompTIA**
-  - Covers IT concepts, infrastructure, networking, security, and databases
+![CompTIA ITF+](https://img.shields.io/badge/CompTIA-ITF%2B-red?style=for-the-badge)
+
+![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B%20(In%20Progress)-orange?style=for-the-badge)
 
 ---
 

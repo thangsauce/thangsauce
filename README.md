@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Information+Technology+Student;Cybersecurity+Enthusiast;Building+Real-World+Projects&center=true&width=600&height=45&color=3FB950)](https://git.io/typing-svg)
 
 # Hi o(*￣▽￣*)ブ, I'm Thang Le aka Thangsauce
-<img src="https://raw.githubusercontent.com/zendurix/Hacker-screen/master/hacker.gif" width="600">
+<img src="https://raw.githubusercontent.com/zendurix/Hacker-screen/master/hacker.gif" width="500">
 
 ### Information Technology Student @ University of Central Florida
 

@@ -111,6 +111,8 @@ life_philosophy: "Wherever you go, there you are."
 <details>
 <summary>Click to expand</summary>
 
+<div align="center">
+
 ### 🔐 [CampusLab SIEM](https://github.com/project-vigil-knighthacks/vigil)
 **Security Monitoring · Log Analysis · KnightHacks Hackathon**
 
@@ -129,6 +131,8 @@ Modern e-commerce style website demonstrating responsive UI and component-based 
 **Esports Tournament Platform · Bracket Generation · Match Scheduling**
 
 Full-featured platform for organizing esports tournaments — handles bracket generation, match scheduling, and participant tracking with a clean admin dashboard.
+
+</div>
 
 </details>
 ---

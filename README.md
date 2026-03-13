@@ -20,7 +20,7 @@ Passionate about building scalable web applications, exploring cybersecurity, an
 - 💻 Interested in **Web Development, IT Infrastructure, Cybersecurity, and Full-Stack Applications**
 - 🛠 Currently building with **React, TypeScript, Python, and security-focused projects**
 - 🌱 Currently learning **cloud computing, backend systems, and monitoring tools**
-- 🎯 Goal: land an internship in **IT, software development, or cybersecurity**
+- 🎯 Goal: land an internship in **IT or cybersecurity**
 
 ---
 

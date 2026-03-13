@@ -27,7 +27,7 @@ Passionate about building scalable web applications, exploring cybersecurity, an
 # 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,vite,html,css,git,linux,vscode&perline=5" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,tailwind,mysql,postgres,git,vscode&perline=5" />
 </p>
 
 ---

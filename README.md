@@ -37,7 +37,7 @@ currently_building:
 
 life_philosophy: "Building at the intersection of web development and cybersecurity."
 ```
-    </td>
+  </td>
     <td width="50%" valign="top">
 
 ### 🚀 Current Focus

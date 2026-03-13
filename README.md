@@ -27,29 +27,19 @@ UCF Information Technology student building at the intersection of **web develop
 <summary>Click to expand</summary>
 
 ### Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python&perline=6" />
-</p>
+<img src="https://skillicons.dev/icons?i=js,ts,python" height="40" />
 
 ### Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,html,css&perline=6" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,html,css" height="40" />
 
 ### Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs&perline=6" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs" height="40" />
 
 ### Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres&perline=6" />
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres" height="40" />
 
 ### Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,vscode&perline=6" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,vscode" height="40" />
 
 </details>
 

@@ -132,8 +132,16 @@ Full-featured platform for organizing esports tournaments — handles bracket ge
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=thangsauce&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thangsauce&layout=compact&theme=tokyonight&hide_border=true" height="400" alt="Top Languages" />
+<table align="center" style="border: none; background: transparent;">
+  <tr>
+    <td valign="middle" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=thangsauce&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="195" alt="GitHub Stats" />
+    </td>
+    <td valign="middle" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thangsauce&layout=compact&theme=tokyonight&hide_border=true" height="195" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 </div>
 

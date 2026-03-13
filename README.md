@@ -6,7 +6,7 @@
 
 ### Information Technology Student @ University of Central Florida
 
-![Profile Views](https://komarev.com/ghpvc/?username=thangsauce&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=thangsauce&color=3FB950&style=flat)
 
 </div>
 

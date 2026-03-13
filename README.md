@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-UCF Information Technology student building at the intersection of **web development** and **cybersecurity**. I'm drawn to projects where security isn't an afterthought — from building a full SIEM system at a hackathon to crafting production-ready web apps with clean architecture.
+UCF Information Technology student building at the intersection of **web development** and **cybersecurity**. I'm drawn to projects where security isn't an afterthought.
 
 - 🎓 **B.S. Information Technology** — University of Central Florida
 - 🔐 Currently sharpening: **cloud infrastructure, backend systems, and offensive security fundamentals**

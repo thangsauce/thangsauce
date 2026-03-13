@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Information+Technology+Student;Cybersecurity+Enthusiast;Building+Real-World+Projects&center=true&width=600&height=45&color=3FB950)](https://git.io/typing-svg)
 
-# Hi 👋, I'm Thang Le
+# Hi 👋, I'm Thang Le a.k.a thangsauce
 
 ### Information Technology Student @ University of Central Florida
 
@@ -49,6 +49,7 @@ UCF Information Technology student building at the intersection of **web develop
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Google Antigravity](https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-%23FF9900.svg?style=for-the-badge&logo=awslambda&logoColor=white)
 
 </details>
 

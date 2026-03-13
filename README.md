@@ -102,6 +102,9 @@ life_philosophy: "Building at the intersection of web development and cybersecur
 
 ## 📂 Featured Projects
 
+<details>
+<summary>Click to expand</summary>
+
 ### 🔐 [CampusLab SIEM](https://github.com/project-vigil-knighthacks/vigil)
 **Security Monitoring · Log Analysis · KnightHacks Hackathon**
 
@@ -121,6 +124,7 @@ Modern e-commerce style website demonstrating responsive UI and component-based 
 
 Full-featured platform for organizing esports tournaments — handles bracket generation, match scheduling, and participant tracking with a clean admin dashboard.
 
+</details>
 ---
 
 ## 📊 GitHub Stats

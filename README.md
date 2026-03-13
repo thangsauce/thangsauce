@@ -2,23 +2,59 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Information+Technology+Student;Cybersecurity+Enthusiast;Building+Real-World+Projects&center=true&width=600&height=45&color=3FB950)](https://git.io/typing-svg)
 
-# Hi 👋, I'm Thang Le a.k.a thangsauce
+# Hi 👋, I'm Thang Le
+<img src="https://raw.githubusercontent.com/zendurix/Hacker-screen/master/hacker.gif" width="600">
 
 ### Information Technology Student @ University of Central Florida
 
-![Profile Views](https://komarev.com/ghpvc/?username=thangsauce&color=3FB950&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=thangsauce&color=3FB950&style=flat) 
 ![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fthangsauce&query=public_repos&label=Repositories&color=3FB950&logo=github&style=flat)
 
 </div>
 
 ---
 
-## 🚀 About Me
+<table align="center" style="border: none;">
+  <tr>
+    <td width="50%" valign="top">
+      
+### 🎯 What I Do
+```yaml
+name: Thang Le
+located_in: Orlando, FL
+current_status: IT Student @ UCF
 
-UCF Information Technology student building at the intersection of **web development** and **cybersecurity**. I'm drawn to projects where security isn't an afterthought.
+areas_of_expertise:
+  - 🌐 Web Development
+  - 🔐 Cybersecurity
+  - ☁️ Cloud Infrastructure
+  - ⚙️ Backend Systems
 
-- 🎓 **B.S. Information Technology** — University of Central Florida
-- 🔐 Currently sharpening: **cloud infrastructure, backend systems, and offensive security fundamentals**
+currently_building:
+  - Full-Stack Web Applications
+  - Portfolio Projects
+  - IT Infrastructure Labs
+
+life_philosophy: "Building at the intersection of web development and cybersecurity."
+```
+    </td>
+    <td width="50%" valign="top">
+
+### 🚀 Current Focus
+- 🌐 Building polished **full-stack web apps**
+- 🔐 Strengthening **cybersecurity fundamentals**
+- 📂 Developing **portfolio projects**
+- ☁️ Learning **cloud & backend systems**
+
+### 💡 Quick Facts
+- 🎓 B.S. Information Technology — UCF
+- 🏆 Hackathon builder (CampusLab SIEM)
+- 🎯 Seeking Summer 2026 internships
+- ⭐ Always learning and building
+
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -52,6 +88,7 @@ UCF Information Technology student building at the intersection of **web develop
 ![Google Antigravity](https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-%23FF9900.svg?style=for-the-badge&logo=awslambda&logoColor=white)
 
+
 </details>
 
 ---
@@ -63,20 +100,8 @@ UCF Information Technology student building at the intersection of **web develop
 
 ---
 
-## 🔭 Current Focus
-
-- Building polished **full-stack web applications**
-- Strengthening **IT infrastructure and cybersecurity fundamentals**
-- Developing **portfolio projects for internships**
-- Learning **cloud infrastructure and backend systems**
-
----
-
 ## 📂 Featured Projects
 
-<details>
-<summary>Click to expand</summary>
-  
 ### 🔐 [CampusLab SIEM](https://github.com/project-vigil-knighthacks/vigil)
 **Security Monitoring · Log Analysis · KnightHacks Hackathon**
 
@@ -95,8 +120,6 @@ Modern e-commerce style website demonstrating responsive UI and component-based 
 **Esports Tournament Platform · Bracket Generation · Match Scheduling**
 
 Full-featured platform for organizing esports tournaments — handles bracket generation, match scheduling, and participant tracking with a clean admin dashboard.
-
-</details>
 
 ---
 

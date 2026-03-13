@@ -18,8 +18,6 @@ UCF Information Technology student building at the intersection of **web develop
 
 - 🎓 **B.S. Information Technology** — University of Central Florida
 - 🔐 Currently sharpening: **cloud infrastructure, backend systems, and offensive security fundamentals**
-- 🏆 Hackathon builder — shipped a real SIEM system under 24-hour deadline pressure
-- 🎯 Seeking: **Summer 2026 internship in IT, software development, or cybersecurity**
 
 ---
 

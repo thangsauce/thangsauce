@@ -76,9 +76,12 @@ Features:
 All-in-one tournament management platform built for university esports clubs — from first registration to final bracket, live on game day.
 
 Features:
-- Scheduling automation
-- Registration management
-- Student data organization
+- Tournament Management
+- Live Match Control
+- Smart Scheduling
+- Room Booking
+- Participant Tracking
+- Role-Based Access
 
 ---
 
@@ -92,7 +95,7 @@ Features:
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/thang-le-it)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thang-le-it)
 
 ---
 

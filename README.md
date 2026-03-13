@@ -23,6 +23,9 @@ UCF Information Technology student building at the intersection of **web develop
 
 ## 🧰 Tech Stack
 
+<details>
+<summary>Click to expand</summary>
+
 ### Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python&perline=6" />
@@ -47,6 +50,8 @@ UCF Information Technology student building at the intersection of **web develop
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,vscode&perline=6" />
 </p>
+
+</details>
 
 ---
 
@@ -101,7 +106,7 @@ Full-featured platform for organizing esports tournaments — handles bracket ge
 
 ---
 
-## 📫 Contact me
+## 📫 Connect With Me
 
 <div align="center">
 

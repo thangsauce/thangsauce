@@ -21,7 +21,7 @@ UCF Information Technology student building at the intersection of **web develop
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Skills & Tools
 
 <details>
 <summary>Click to expand</summary>
@@ -78,7 +78,7 @@ Modern e-commerce style website demonstrating responsive UI and component-based 
 ---
 
 ### 👾 [ArenaOps](https://github.com/thangsauce/ArenaOps)
-**Tournament Management Platform**
+**Esports Tournament Platform · Bracket Generation · Match Scheduling**
 
 Full-featured platform for organizing esports tournaments — handles bracket generation, match scheduling, and participant tracking with a clean admin dashboard.
 

@@ -34,7 +34,7 @@ currently_building:
   - Portfolio Projects
   - IT Infrastructure Labs
 
-life_philosophy: "Wherever you go, there you are." [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=│)](https://git.io/typing-svg)
+life_philosophy: "Wherever you go, there you are."
 ```
   </td>
     <td width="50%" valign="top">
